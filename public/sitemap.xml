@@ -34,6 +34,28 @@
   </url>
   
   <url>
+    <loc>/tags/academic/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/displacement-deprivation-and-hard-work-among-syrian-refugee-children-in-lebanon/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -62,19 +84,8 @@
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -129,12 +140,6 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

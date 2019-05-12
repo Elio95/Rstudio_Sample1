@@ -1,0 +1,12 @@
+---
+title: Displacement, Deprivation, and Hard Work among Syrian Refugee Children in Lebanon
+author: 'Elio Abi Younes '
+date: '2019-05-12'
+slug: displacement-deprivation-and-hard-work-among-syrian-refugee-children-in-lebanon
+categories: []
+tags:
+  - Academic
+image:
+  caption: ''
+  focal_point: ''
+---
