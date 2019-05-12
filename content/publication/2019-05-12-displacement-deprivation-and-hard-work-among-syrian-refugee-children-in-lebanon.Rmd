@@ -9,6 +9,7 @@ tags:
 image:
   caption: ''
   focal_point: ''
+---
 
 abstract: Background The protracted Syrian war resulted in the
 largest refugee crisis of our time. The most vulnerable are
@@ -40,6 +41,4 @@ likely to report having a health symptom at work, working
 under pressure and using sharp or heavy objects at work.
 Seventy-nine children reported knowing another child who
 died following a work accident.
-
----
 

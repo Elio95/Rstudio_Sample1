@@ -13,7 +13,7 @@ date: "2013-07-01T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 links:
@@ -31,10 +31,10 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: Displacement, Deprivation, and Hard Work among Syrian Refugee Children in Lebanon
+title: An example conference paper
 url_code: '#'
 url_dataset: '#'
-url_pdf: https://gh.bmj.com/content/bmjgh/4/1/e001122.full.pdf
+url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_poster: '#'
 url_project: ""
 url_slides: ""
