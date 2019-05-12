@@ -14,7 +14,7 @@ abstract: Background The protracted Syrian war resulted in the
 largest refugee crisis of our time. The most vulnerable are
 children who face separation from parents, interruption of
 schooling and child labour. This study explores the living
-and working conditions of Syrian children in Lebanon.
+and working conditions of Syrian children in Lebanon.\
 Methods In this cross-sectional study, we randomly
 selected 153 informal tented settlements and
 conducted interviewer-administered surveys among
@@ -22,8 +22,24 @@ Syrian refugee working children in the Bekaa Valley in
 Lebanon. Those aged 8–18 completed a questionnaire
 on sociodemographic and occupational characteristics;
 those aged 4–8 years were surveyed through a household
-questionnaire
+questionnaire.\
+Results We surveyed 1902 households, including 12 708
+individuals and 4377 working children. Female-headed
+households were poorer and more food-insecure than
+male-headed households. Among working children (4–18
+years), the average age of starting work was 10.9 years
+and 74.8% worked in agriculture. Compared with boys,
+girls earned less and were less likely to be enrolled in
+school. For 96.3% of working children aged 8–18 years,
+forced exodus to Lebanon was associated with a first
+child labour experience. Working conditions were harsh
+and worse for girls who compared to boys were less likely
+to receive their salary on time and take time off work.
+Girls worked longer in the sun and cold and were more
+likely to report having a health symptom at work, working
+under pressure and using sharp or heavy objects at work.
+Seventy-nine children reported knowing another child who
+died following a work accident.
 
-url_pdf: https://gh.bmj.com/content/bmjgh/4/1/e001122.full.pdf
 ---
 
