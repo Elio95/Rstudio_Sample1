@@ -4,7 +4,7 @@ authors:
 
 - admin
 
-bio: My research interests include 
+bio: My research interests is focused on deep network and Bayesian Statistics
 
   matter.
 
@@ -30,19 +30,21 @@ interests:
 
 - Artificial Intelligence
 
-- Computational Linguistics
+- Deep Learning
 
-- Information Retrieval
+- Statistics
+
+- Mathematics
 
 name: Elio Abi Younes
 
 organizations:
 
-- name: Stanford University
+- name: McGill University
 
   url: ""
 
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 social:
 
